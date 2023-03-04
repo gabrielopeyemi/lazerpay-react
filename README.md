@@ -43,7 +43,7 @@ const App = () => {
       //handle response here
     },
     onError: (response) => {
-      // handle responsne here
+      // handle response here
     }
   }
 
